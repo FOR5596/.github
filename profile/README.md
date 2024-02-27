@@ -2,6 +2,11 @@
 
 This organization is home to various resources of [FOR5596](https://for5596.uni-freiburg.de/)
 
+## 🛠️ Available Tools
+
+* [PyEED](https://github.com/PyEED/pyeed) Toolkit to create, annotate, and analyze specialized sequence databases
+* [MTPHandler](https://github.com/FAIRChemistry/MTPHandler) Data model and functiond to handel micro titer plate data
+
 ## 📦 Resources
 
 * Checkout the [Research Data Managment Ressources](https://for5596.github.io/rdm/)
